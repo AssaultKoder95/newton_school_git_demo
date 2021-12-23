@@ -2,10 +2,7 @@ Git Commands :
 
 TO DO :
 
-- branch
-- checkout
 - fetch
-- pull
 - merge
 - stash
 - reset
@@ -21,3 +18,6 @@ DONE :
 - push
 - log
 - remote
+- branch
+- checkout
+- pull
